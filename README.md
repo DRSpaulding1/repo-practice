@@ -1,3 +1,3 @@
 # repo-practice
 
-##we are doing git stuff wowza
+## we are doing git stuff wowza
